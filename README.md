@@ -1,3 +1,5 @@
+## TASK -1 : Complete
+
 📌 **Project Overview**
 This project demonstrates the **local setup of Strapi CMS**, creation of a **sample content type**, and pushing the setup to **GitHub**.  
 It also includes a **Loom video walkthrough** for easier understanding.
