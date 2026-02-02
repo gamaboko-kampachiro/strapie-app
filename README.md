@@ -23,7 +23,12 @@ git clone https://github.com/strapi/strapi.git
 cd strapi '''
 
 2️⃣ Install Dependencies
-npm run develop
+
+now to start the strapi application in the browser 
+"npx create-strapi-app@latest my-strapi-app"
+
+then to run the local server 
+"npm run develop"
 
 "
 Strapi server: http://localhost:1337
